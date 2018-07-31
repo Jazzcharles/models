@@ -1,2 +1,2 @@
 # models
-Deep learning models inplementation
+Deep learning models inplementation via Pytorch
